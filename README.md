@@ -4,9 +4,11 @@ This repository contains the implementation of deep learning models for automate
 
 ## Related Publication
 
-Aditi Babu et al. (2026) 
-"Deep Learning Assisted Insights on Porosity Evolution of WAAM Aluminium Alloys"
-Journal of Process Mechanical Engineering.
+Aditi Babu et al. (2026)  
+"Deep Learning Assisted Insights on Porosity Evolution of WAAM Aluminium Alloys"  
+Journal of Process Mechanical Engineering (Sage Journals)  
+
+🔗 Paper: https://journals.sagepub.com/eprint/3VSWACHXI6NFEA3EDCTV/full
 
 ## Overview
 This work focuses on automating the segmentation of pores from XCT image slices using convolutional neural networks and analyzing porosity variation across different build regions in WAAM-fabricated aluminium alloys.
